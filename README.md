@@ -1,5 +1,4 @@
-&#x20;  # Temperature Estimator - Main Version
-
+# Temperature Estimator
 
 
 &#x20;  ## Purpose
